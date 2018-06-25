@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhanThiNgoc_Fragment</string>
+    <string name="topT">TopImageText</string>
+    <string name="bottomT">BottomImageText</string>
+</resources>
